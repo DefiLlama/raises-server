@@ -1,8 +1,8 @@
 {
-  "name": "help",
+  "name": "raises-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "start": "node index.js",
     "upgrade": "npm uninstall --save nocodb && npm install --save nocodb"
